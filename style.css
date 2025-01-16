@@ -9,6 +9,13 @@ img {
     width: 200px;
     height: 200px;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: bisque;
+}
 .card {
     display: flex;
     flex-direction: column;
